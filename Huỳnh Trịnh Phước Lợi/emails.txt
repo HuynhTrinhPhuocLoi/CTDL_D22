@@ -1,0 +1,9 @@
+#email1
+Congratulations, you've won a free iPhone! Click here to claim.
+You have been selected for a cash prize. Click the link now!
+Free money waiting for you. Limited time offer.
+
+#email2
+Hello, can we schedule a meeting tomorrow?
+The project deadline has been extended to next week.
+Thank you for your purchase invoice.
